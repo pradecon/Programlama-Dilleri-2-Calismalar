@@ -1,0 +1,37 @@
+mfcan@localhost:~/Documents/github_homeworks/Hafta 1> echo Hafta\ 1\ S1 && cat boşluk && ./Hafta\ 1\ S1.out && cat boşluk && echo Hafta\ 1\ S2 && cat boşluk && ./Hafta\ 1\ S2.out && cat boşluk && echo Hafta\ 1\ S3 && cat boşluk && ./Hafta\ 1\ S3.out && cat boşluk && echo Hafta\ 1\ S4 && cat boşluk && ./Hafta\ 1\ S4.out && cat boşluk && echo Hafta\ 1\ S5 && cat boşluk && ./Hafta\ 1\ S5.out
+Hafta 1 S1
+
+x = 10, y = 20
+x = 11, y = 41
+x = 11, y = 20
+x = 5
+
+Hafta 1 S2
+
+deneme1.c gid değişken değeri: 287
+deneme2.c gid değişken değeri: 287
+
+Hafta 1 S3
+
+start_t değeri: 1682
+end_t değeri: 34792
+Döngü çalışma süresi (saniye): 0.033
+
+Hafta 1 S4
+
+fonk() id değişken değeri: 1
+fonk() id değişken değeri: 22
+fonk_sta() id değişken değeri: 1
+fonk_sta() id değişken değeri: 22
+
+fonk() id değişken değeri: 1
+fonk() id değişken değeri: 22
+fonk_sta() id değişken değeri: 22
+fonk_sta() id değişken değeri: 43
+
+Hafta 1 S5
+
+Alanını hesaplamak istyediğiniz dairenin yarıçapını giriniz
+-> 2
+Yarıçapı girilen dairenin alanı: 12.56
+mfcan@localhost:~/Documents/github_homeworks/Hafta 1>
