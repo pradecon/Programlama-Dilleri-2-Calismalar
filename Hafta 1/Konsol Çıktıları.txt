@@ -34,4 +34,4 @@ Hafta 1 S5
 Alanını hesaplamak istyediğiniz dairenin yarıçapını giriniz
 -> 2
 Yarıçapı girilen dairenin alanı: 12.56
-mfcan@localhost:~/Documents/github_homeworks/Hafta 1>
+mfcan@localhost:~> 
