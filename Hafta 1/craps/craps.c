@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> //for little bit of everything all of the time
 #include <stdlib.h> //for rand() function
-#include <unistd.h>
+#include <unistd.h> //for sleep() function
 #include <time.h> //for time() function
 
 int first_try ( int ) ;
