@@ -1,4 +1,4 @@
-# Programlama-Dilleri-2-Calismalar
+Programlama-Dilleri-2-Calismalar
 2   Muhammet Furkan Çankaya PD2 2021-2022 yaz
 3  Hafta 1 Lab uygulmaları, konsol çıktıları ve Linux (x86_64) çalıştırılabilir kod ile beraber.
 
