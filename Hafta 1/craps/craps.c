@@ -1,5 +1,5 @@
 #include <stdio.h> //for little bit of everything all of the time
-#include <stdlib.h> //for rand() function
+#include <stdlib.h> //for rand() and srand() function
 #include <unistd.h> //for sleep() function
 #include <time.h> //for time() function
 
