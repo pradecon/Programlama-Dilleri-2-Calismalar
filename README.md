@@ -5,3 +5,4 @@
 
 3 Bir sayının istenen kuvvetini bulan ve bunun için rekürsif fonksiyon kullanan program Hafta 2 klasöründe.
 Hafta 3 klasöründeki çıktılar linux aarch64 içindir.
+4 Hafta 4 klosörü iki parça.
